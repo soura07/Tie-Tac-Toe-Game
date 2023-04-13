@@ -1,5 +1,5 @@
 # Tie-Tac-Toe-Game
-using HTM, CSS , JS
+<h2>using HTML, CSS , JS </h2>
 
-<a href="https://unicornjohn.github.io/Tie-Tac-Toe-Game/">Here My Project</a>
-https://unicornjohn.github.io/Tie-Tac-Toe-Game/
+
+<a href="https://ibb.co/w6hJxxz"><img src="https://i.ibb.co/tCpZWWJ/tic-tac-toe-img.png" alt="tic-tac-toe-img" border="0"> <br> Here my Portfolio Website using HTML,CSS and JS</a>
